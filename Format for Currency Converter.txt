@@ -1,0 +1,7 @@
+Format for Currency Converter:
+
+Every function must have a complete specification.
+Every module must start with a docstring with your name and date.
+There must be two blank lines between any two function definitions.
+Function bodies should be indented with 4 spaces.
+No non-docstring line may be longer than 80 characters.
